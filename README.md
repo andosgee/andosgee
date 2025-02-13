@@ -17,9 +17,9 @@ I am currently studying Software Development at Ara Institute of Canterbury. I e
 ## 📂 Highlighted Projects
 |  |  |
 |---------|-------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andosgee&repo=Chess-Maze)](https://github.com/andosgee/Chess-Maze) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andosgee&repo=Skillforge)](https://github.com/andosgee/Skillforge) |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andosgee&repo=Eyeball-Maze-Game)](https://github.com/andosgee/Eyeball-Maze-Game) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andosgee&repo=GovHack2024)](https://github.com/andosgee/GovHack2024) |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andosgee&repo=Rotary)](https://github.com/andosgee/Rotary)| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andosgee&repo=Insurance-Summary-and-Vehicle-Analyser)](https://github.com/andosgee/Insurance-Summary-and-Vehicle-Analyser) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andosgee&repo=Chess-Maze&theme=dark)](https://github.com/andosgee/Chess-Maze) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andosgee&repo=Skillforge&theme=dark)](https://github.com/andosgee/Skillforge) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andosgee&repo=Eyeball-Maze-Game&theme=dark)](https://github.com/andosgee/Eyeball-Maze-Game) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andosgee&repo=GovHack2024&theme=dark)](https://github.com/andosgee/GovHack2024) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andosgee&repo=Rotary)](https://github.com/andosgee/Rotary&theme=dark)| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andosgee&repo=Insurance-Summary-and-Vehicle-Analyser&theme=dark)](https://github.com/andosgee/Insurance-Summary-and-Vehicle-Analyser) |
 
 ## 🚀 Languages
 I have had experience with PHP, HTML, CSS, SQL, MySQL, Java, C#, .NET, Python, SCSS, JavaScript and TypeScript.
