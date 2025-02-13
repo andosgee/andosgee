@@ -2,6 +2,25 @@
 ___
 I am currently studying Software Development at Ara Institute of Canterbury. I enjoy working and looking through various technologies. I have experience more so in full-stack development but want to end up in Mechatronics. 
 
+## 📊 My Stats
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=andosgee&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies">
+</p>
+<table style="border:none">
+    <tr>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=andosgee&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="andosgee's Stats"></td>
+        <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=andosgee&theme=radical&hide_border=true" alt="andosgee's Streak"></td>
+        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andosgee&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="andosgee's Top Languages"></td>
+    </tr>
+</table>
+
+## 📂 Highlighted Projects
+|  |  |
+|---------|-------------|
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andosgee&repo=Chess-Maze)](https://github.com/andosgee/Chess-Maze) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andosgee&repo=Skillforge)](https://github.com/andosgee/Skillforge) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andosgee&repo=Eyeball-Maze-Game)](https://github.com/andosgee/Eyeball-Maze-Game) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andosgee&repo=GovHack2024)](https://github.com/andosgee/GovHack2024) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andosgee&repo=Rotary)](https://github.com/andosgee/Rotary)| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andosgee&repo=Insurance-Summary-and-Vehicle-Analyser)](https://github.com/andosgee/Insurance-Summary-and-Vehicle-Analyser) |
+
 ## 🚀 Languages
 I have had experience with PHP, HTML, CSS, SQL, MySQL, Java, C#, .NET, Python, SCSS, JavaScript and TypeScript.
 <p align="center">
@@ -26,22 +45,5 @@ I have used and had experience with Jest, NodeJS, React, VITE, Wordpress, Bootst
     </a>
 </p>
 
-## 📊 My Stats
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=andosgee&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies">
-</p>
-<table style="border:none">
-    <tr>
-        <td><img src="https://github-readme-stats.vercel.app/api?username=andosgee&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="andosgee's Stats"></td>
-        <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=andosgee&theme=radical&hide_border=true" alt="andosgee's Streak"></td>
-        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andosgee&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="andosgee's Top Languages"></td>
-    </tr>
-</table>
 
-## 📂 Highlighted Projects
-|  |  |
-|---------|-------------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andosgee&repo=Chess-Maze)](https://github.com/andosgee/Chess-Maze) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andosgee&repo=Skillforge)](https://github.com/andosgee/Skillforge) |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andosgee&repo=Eyeball-Maze-Game)](https://github.com/andosgee/Eyeball-Maze-Game) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andosgee&repo=GovHack2024)](https://github.com/andosgee/GovHack2024) |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andosgee&repo=Rotary)](https://github.com/andosgee/Rotary)| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andosgee&repo=Insurance-Summary-and-Vehicle-Analyser)](https://github.com/andosgee/Insurance-Summary-and-Vehicle-Analyser) |
 
