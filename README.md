@@ -1,6 +1,6 @@
 # Hi, I'm Andrew!
 ___
-I am currently studying Software Development at Ara Institute of Canterbury. I enjoy working and looking through various technologies. I have experience more so in full-stack development but want to end up in Mechatronics. 
+I am recent graduate from Ara Institute of Canterbury with a Bachelor of Information Communication Technology specialising in Software Engineering. I enjoy working and looking through various new and emerging technologies. I have experience more so in full-stack development but want to end up in Embedded Systems. 
 
 ## 📊 My Stats
 <p align="center">
