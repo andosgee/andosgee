@@ -25,7 +25,7 @@ I am currently studying Software Development at Ara Institute of Canterbury. I e
 I have had experience with PHP, HTML, CSS, SQL, MySQL, Java, C#, .NET, Python, SCSS, JavaScript and TypeScript.
 <p align="center">
     <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=js,html,css,scss,cs,java,php,mysql,py,&theme=light&perline=10">
+     <img src="https://skillicons.dev/icons?i=js,ts,html,css,scss,cs,java,php,mysql,py,&theme=light&perline=10">
     </a>
 </p>
 
